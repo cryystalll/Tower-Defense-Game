@@ -1,5 +1,5 @@
 # Tower-Defense-Game
-## A Game about deploy turrets to beat enemy
+## A Game about deploying turrets to beat enemy
 * There are normal items or sepecial items
 * Some special Turrets and enemies have its own features
 ## Special Items

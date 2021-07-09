@@ -23,3 +23,4 @@
 * For clearing Items
 
 ![Variable Declaration](/img/1.png)
+

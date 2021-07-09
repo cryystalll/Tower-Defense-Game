@@ -5,16 +5,16 @@
 * Objective C++
 * There are normal items or sepecial items
 * Some special Turrets and enemies have its own features
-## Special Items
-## Freeze Turret
+## Some Special Items
+* Freeze Turret
 * Turret that can freeze enemy
-## Super Turret
+* Super Turret
 * Turret that can move by pressing keys
-## Bomb Turret
+* Bomb Turret
 * Turret that explodes when being attack 
-## Fast Enemy
+* Fast Enemy
 * Enemy that can speed up
-## BlackBomb
+* BlackBomb
 * For clearing Items
 ## Game Rule
 * Win the game if you beat all enemies

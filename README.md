@@ -5,6 +5,11 @@
 * Objective C++
 * There are normal items or sepecial items
 * Some special Turrets and enemies have its own features
+## Game Rule
+* Win the game if you beat all enemies
+* Game over when Life is less than zero
+## Golden Finger
+* up up down down left right Enter
 ## Some Special Items
 * Freeze Turret
 * Turret that can freeze enemy
@@ -16,8 +21,5 @@
 * Enemy that can speed up
 * BlackBomb
 * For clearing Items
-## Game Rule
-* Win the game if you beat all enemies
-* Game over when Life is less than zero
 
 ![Variable Declaration](/img/1.png)

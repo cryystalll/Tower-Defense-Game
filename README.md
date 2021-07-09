@@ -7,7 +7,7 @@
 * Some special Turrets and enemies have its own features
 ## Some Special Items
 * Freeze Turret
-* Turret that can freeze enemy
+  Turret that can freeze enemy
 * Super Turret
 * Turret that can move by pressing keys
 * Bomb Turret

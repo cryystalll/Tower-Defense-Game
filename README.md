@@ -14,5 +14,5 @@
 ## Game Rule
 * Win the game if you beat all enemies
 * Game over when Life is less than zero
-* 
+
 ![Variable Declaration](/img/1.png)

@@ -10,9 +10,11 @@
 * Turret that can freeze enemy
 ## Super Turret
 * Turret that can move by pressing keys
+## Bomb Turret
+* Turret that explodes when being attack 
 ## Fast Enemy
 * Enemy that can speed up
-## Bomb
+## BlackBomb
 * For clearing Items
 ## Game Rule
 * Win the game if you beat all enemies

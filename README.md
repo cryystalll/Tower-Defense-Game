@@ -1,6 +1,7 @@
 # Tower-Defense-Game
 ## A Game about set turrets to beat enemy
-* There are normal items or sepecial items,some Turrets and enemies have its own features
+* There are normal items or sepecial items
+* Some special Turrets and enemies have its own features
 ## Special Items
 ## Freeze Turret
 * Turret that can freeze enemy
